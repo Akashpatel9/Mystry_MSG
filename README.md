@@ -124,7 +124,3 @@ The project is deployed on **Vercel**. To deploy your own version:
 ## License
 
 This project is licensed under the **MIT License**. Check the [LICENSE](LICENSE) file for more details.
-
----
-
-This version clearly reflects that the project is a **Next.js** application. Feel free to adjust it further if needed!
