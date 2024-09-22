@@ -118,7 +118,8 @@ The project is deployed on **Vercel**. To deploy your own version:
 ### Dashboard
 
 ![image](https://github.com/user-attachments/assets/4626630d-465f-415b-8c4c-8224381ae570)
-
+![image](https://github.com/user-attachments/assets/7f739e7f-93c9-4972-a01c-3652b9b47723)
+![image](https://github.com/user-attachments/assets/73d00134-c0d1-4f7a-a47a-07d44d6476f3)
 
 ## License
 
