@@ -117,7 +117,8 @@ The project is deployed on **Vercel**. To deploy your own version:
 
 ### Dashboard
 
-![Dashboard Screenshot](https://your-screenshot-url.com)
+![image](https://github.com/user-attachments/assets/4626630d-465f-415b-8c4c-8224381ae570)
+
 
 ## License
 
